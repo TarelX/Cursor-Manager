@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="media/icon.png" width="96" height="96" alt="Cursor Manager">
+</p>
+
 <h1 align="center">Cursor Manager</h1>
 
 <p align="center">
@@ -8,7 +12,7 @@
   <img src="https://img.shields.io/badge/Cursor-Extension-1473E6?style=flat-square" alt="Cursor Extension">
   <img src="https://img.shields.io/badge/Windows-Supported-1473E6?style=flat-square" alt="Windows Supported">
   <img src="https://img.shields.io/badge/macOS-Experimental-6B7280?style=flat-square" alt="macOS Experimental">
-  <img src="https://img.shields.io/badge/License-MIT-22C55E?style=flat-square" alt="MIT License">
+  <img src="https://img.shields.io/badge/License-Proprietary-C2410C?style=flat-square" alt="Proprietary License">
 </p>
 
 Cursor Manager 是一款运行在 Cursor 侧栏中的账号管理扩展。它将多账号、额度、登录设备、客户端登录状态和 Sand Stream 集中到一个界面中，适合需要在多个 Cursor 账号之间查看用量、备份账号和切换登录状态的用户。
@@ -429,4 +433,8 @@ Cursor Manager 是本地账号管理工具，不提供 Cursor 账号、订阅、
 
 ## License
 
-MIT License
+Copyright (c) 2026 Ti. All rights reserved.
+
+Cursor Manager is proprietary software distributed under a restricted binary license. Copying, redistribution, decompilation, disassembly, de-obfuscation, reverse engineering, automated analysis, and source reconstruction are prohibited unless the publisher grants prior written permission.
+
+See `LICENSE.txt` for the complete license terms.
