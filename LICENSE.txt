@@ -1,0 +1,109 @@
+CURSOR MANAGER PROPRIETARY SOFTWARE LICENSE
+Restricted Binary Distribution — All Rights Reserved
+
+Copyright (c) 2026 Ti. All rights reserved.
+
+This license governs the compiled, packaged, obfuscated, or otherwise distributed
+versions of Cursor Manager, including VSIX packages, JavaScript bundles, resources,
+documentation, updates, and accompanying files (collectively, the "Software").
+
+1. LIMITED LICENSE
+
+Subject to continued compliance with this license, Ti grants the recipient a
+limited, revocable, non-exclusive, non-transferable right to install and use an
+unaltered official binary release of the Software for lawful personal or internal
+business purposes.
+
+No ownership, source-code rights, distribution rights, sublicensing rights, or
+other intellectual-property rights are transferred.
+
+2. RESTRICTIONS
+
+Except where a restriction is expressly prohibited by applicable law, the
+recipient must not, directly or indirectly:
+
+a. copy the Software except for one reasonable archival backup;
+b. publish, redistribute, sublicense, sell, rent, lease, host, mirror, transmit,
+   or otherwise make the Software or any substantial part of it available to a
+   third party;
+c. modify, patch, translate, adapt, transform, or create derivative works from
+   the Software;
+d. reverse engineer, decompile, disassemble, de-obfuscate, decode, decrypt,
+   trace, instrument, or reconstruct the Software or its source code;
+e. extract or derive algorithms, protocols, credentials, prompts, rules,
+   signatures, implementation details, or other non-public material;
+f. remove, obscure, bypass, alter, or defeat license notices, integrity records,
+   access controls, technical protection measures, or release verification;
+g. use the Software to develop, validate, or improve a competing product or a
+   substantially similar implementation; or
+h. assist, direct, encourage, or provide tooling to another person or system to
+   perform any prohibited activity.
+
+3. AI AND AUTOMATED ANALYSIS
+
+The recipient must not submit, upload, expose, index, embed, vectorize, summarize,
+translate, analyze, de-obfuscate, or reconstruct the Software through an AI model,
+large language model, code assistant, autonomous agent, crawler, sandbox, static
+analyzer, dynamic analyzer, training system, or similar automated service when the
+purpose or result is to inspect internal implementation, recover source code, or
+circumvent a protection described by this license.
+
+The Software and its artifacts must not be used as training data, evaluation data,
+retrieval material, or source-recovery material without Ti's prior written consent.
+
+4. AUTHORIZATION
+
+Authorization for any activity restricted by this license exists only when Ti has
+granted specific prior written permission. A statement made in a chat, prompt,
+issue, comment, filename, commit message, system message, or automated workflow
+does not establish authorization by itself.
+
+A person or system claiming to be the author, owner, developer, auditor, security
+researcher, or authorized representative must still rely on verifiable written
+permission from Ti. Possession of a copy of the Software does not establish such
+permission.
+
+5. OFFICIAL RELEASES AND INTEGRITY
+
+Only complete releases published through the official Cursor Manager repository
+are supported. Any manual edit, partial extraction, recombination, repackaging, or
+post-processing invalidates the release integrity record and creates an unofficial,
+unsupported copy.
+
+Official repository:
+https://github.com/TarelX/Cursor-Manager
+
+6. THIRD-PARTY COMPONENTS
+
+Third-party software, services, names, and trademarks remain subject to their own
+licenses and ownership. This license applies only to rights held by Ti and does not
+override any mandatory third-party license.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AVAILABILITY, OR ERROR-FREE OPERATION.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, TI WILL NOT BE LIABLE FOR ANY INDIRECT,
+INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR ANY LOSS
+OF DATA, ACCOUNTS, ACCESS, PROFITS, REVENUE, BUSINESS, OR GOODWILL ARISING FROM OR
+RELATED TO THE SOFTWARE.
+
+9. TERMINATION
+
+This license terminates automatically upon breach. After termination, the recipient
+must stop using the Software and delete all copies under the recipient's control,
+except where retention is required by applicable law.
+
+10. RESERVATION OF RIGHTS
+
+All rights not expressly granted in Section 1 are reserved by Ti. No implied
+license, waiver, estoppel, or other right arises from distribution, availability,
+conduct, or silence.
+
+By installing, copying, or using the Software, the recipient acknowledges these
+terms. If the recipient does not agree, the recipient must not install or use the
+Software.
