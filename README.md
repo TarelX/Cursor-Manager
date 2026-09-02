@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="media/icon.png" width="96" height="96" alt="Cursor Manager">
-</p>
-
 <h1 align="center">Cursor Manager</h1>
 
 <p align="center">
