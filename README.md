@@ -50,7 +50,6 @@ Cursor Manager 是一款运行在 Cursor 侧栏中的账号管理扩展。它将
 - 安装、检查和卸载 Sand Stream。
 - 支持 Sand、Task、子代理和后台任务相关使用场景。
 - 导入、预览和导出账号备份。
-- 保留旧版 Cursor Account Manager 与 keepchat 的兼容入口。
 
 ## 安装
 
